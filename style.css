@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 1rem;
+}
+
+.card-title {
+    margin-top: 5%;
+}
+
+.order-options {
+    padding: 5%;
+}
+
+.tosafot {
+    padding-top: 5%;
+}
+
+.mechir-godel {
+    padding: 0 30%;
+}
+
+.price {
+    padding-top: 100%;
+}
+
+.mechiron {
+    padding: 0 25%;
+}
+
+.hazmana {
+    margin-top: 10%;
+}
+
+#customerSize{
+    padding: 2% 0 0;
+}
+#customerBatzek,
+#customerTosafot {
+    padding: 0;
+}
